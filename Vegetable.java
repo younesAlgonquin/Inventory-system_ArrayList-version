@@ -3,17 +3,11 @@ import java.util.Scanner;
 
 /**
  * CET - CS Academic Level 3
- * Declaration: I declare that this is my own original work and is free from Plagiarism
- * Student Name: Younes Boutaleb
- * Student Number: 041019068 
  * Assignment number: Assignment 2
  * Date: 6/8/202
  * purpose of class: This class inherits the FoodItem class variables and methods and declares and reads the name of the farm supplier .
- * Student Name: Younes Boutaleb
  * Section #: 303
  * Course: CST8130 - Data Structures
- * Professor: James Mwangi PhD.
- * @author Younes Boutaleb.
  * @version 1.0
  * 
  */
