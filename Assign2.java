@@ -3,16 +3,11 @@ import java.util.Scanner;
 
 /**
  * CET - CS Academic Level 3
- * Declaration: I declare that this is my own original work and is free from Plagiarism
- * Student Name: Younes Boutaleb
- * Student Number: 041019068 
  * Assignment number: Assignment 2
  * Date: 6/8/2021
  * purpose of class: This class declares a method that displays the menu, and the main method which tests the program
  * Section #: 303
  * Course: CST8130 - Data Structures
- * Professor: James Mwangi PhD.
- * @author Younes Boutaleb.
  * @version 1.0
  * 
  */
