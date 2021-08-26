@@ -10,17 +10,12 @@ import java.util.Scanner;
 
 /**
  * CET - CS Academic Level 3
- * Declaration: I declare that this is my own original work and is free from Plagiarism
- * Student Name: Younes Boutaleb
- * Student Number: 041019068 
  * Assignment number: Assignment 2
  * Date: 6/8/2021
  * purpose of class: This class declares an ArrayList of FoodItem Object then declares methods that reads the object's properties,
  * update stock quantity and display the food item properties in a string format
  * Section #: 303
  * Course: CST8130 - Data Structures
- * Professor: James Mwangi PhD.
- * @author Younes Boutaleb.
  * @version 1.0
  * 
  */
